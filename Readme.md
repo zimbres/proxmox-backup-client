@@ -1,0 +1,1 @@
+docker run -it --rm --env-file ./.env -h myhostname -v D:/backupdir:/backupdir proxmox-backup-client
